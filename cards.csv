@@ -1,0 +1,148 @@
+"Name",Type,Color_Identity,Mana_Cost
+"Sol Ring",Artifact,C,{1}
+"Lightning Bolt",Instant,R,{R}
+"Counterspell",Instant,U,{U}{U}
+"Llanowar Elves",Creature,G,{G}
+"Serra Angel",Creature,W,{3}{W}{W}
+"Dark Ritual",Instant,B,{B}
+"Black Lotus",Artifact,C,{0}
+"Giant Growth",Instant,G,{G}
+"Shivan Dragon",Creature,R,{4}{R}{R}
+"Ancestral Recall",Instant,U,{U}
+"Time Walk",Sorcery,U,{1}{U}
+"Mox Sapphire",Artifact,C,{0}
+"Mox Jet",Artifact,C,{0}
+"Mox Pearl",Artifact,C,{0}
+"Mox Ruby",Artifact,C,{0}
+"Mox Emerald",Artifact,C,{0}
+"Birds of Paradise",Creature,G,{G}
+"Wrath of God",Sorcery,W,{2}{W}{W}
+"Swords to Plowshares",Instant,W,{W}
+"Disenchant",Instant,W,{1}{W}
+"Giant Spider",Creature,G,{3}{G}
+"Shatter",Instant,R,{1}{R}
+"Mind Twist",Sorcery,B,{X}{B}
+"Dark Confidant",Creature,B,{1}{B}
+"Thoughtseize",Sorcery,B,{B}
+"Duress",Sorcery,B,{B}
+"Inquisition of Kozilek",Sorcery,B,{B}
+"Fatal Push",Instant,B,{B}
+"Path to Exile",Instant,W,{W}
+"Abrupt Decay",Instant,B/G,{B}{G}
+"Scalding Tarn",Land,C,{0}
+"Flooded Strand",Land,C,{0}
+"Polluted Delta",Land,C,{0}
+"Misty Rainforest",Land,C,{0}
+"Verdant Catacombs",Land,C,{0}
+"Windswept Heath",Land,C,{0}
+"Wooded Foothills",Land,C,{0}
+"Bloodstained Mire",Land,C,{0}
+"Marsh Flats",Land,C,{0}
+"Arid Mesa",Land,C,{0}
+"Tundra",Land,W/U,{0}
+"Underground Sea",Land,U/B,{0}
+"Volcanic Island",Land,U/R,{0}
+"Bayou",Land,B/G,{0}
+"Savannah",Land,G/W,{0}
+"Scrubland",Land,W/B,{0}
+"Taiga",Land,R/G,{0}
+"Badlands",Land,R/B,{0}
+"Plateau",Land,R/W,{0}
+"Cabal Coffers",Land,B,{0}
+"Urborg, Tomb of Yawgmoth",Land,B,{0}
+"Gaea's Cradle",Land,G,{0
+"Tarmogoyf",Creature,G,{1}{G}
+"Snapcaster Mage",Creature,U,{1}{U}
+"Liliana of the Veil",Planeswalker,B,{1}{B}{B}
+"Jace, the Mind Sculptor",Planeswalker,U,{2}{U}{U}
+"Nicol Bolas, the Ravager",Creature,U/B/R,{4}{U}{B}{R}
+"Emrakul, the Aeons Torn",Creature,C,{15}
+"Ulamog, the Infinite Gyre",Creature,C,{10}
+"Karn Liberated",Planeswalker,C,{7}
+"Urza, Lord High Artificer",Creature,B,{3}{U}{U}
+"Teferi, Hero of Dominaria",Planeswalker,U/W,{3}{U}{W}
+"Elspeth, Sun's Champion",Planeswalker,W,{4}{W}{W}
+"Ajani Goldmane",Planeswalker,W,{2}{W}{W}
+"Chandra, Torch of Defiance",Planeswalker,R,{2}{R}
+"Ral Zarek",Planeswalker,U/R,{2}{U}{R}
+"Gideon Jura",Planeswalker,W,{2}{W}{W}
+"Nissa, Voice of Zendikar",Planeswalker,G,{1}{G}{G}
+"Vraska the Unseen",Planeswalker,B/G,{2}{B}{G}
+"Liliana, the Last Hope",Planeswalker,B,{1}{B}{B}
+"Aether Vial",Artifact,C,{1}
+"Batterskull",Artifact,C,{5}
+"Sword of Fire and Ice",Artifact,C,{3}
+"Sword of Light and Shadow",Artifact,C,{3}
+"Sword of War and Peace",Artifact,C,{3}
+"Sword of Body and Mind",Artifact,C,{3}
+"Crucible of Worlds",Artifact,C,{3}
+"Sensei's Divining Top",Artifact,C,{1}
+"Pithing Needle",Artifact,C,{1}
+"Wasteland",Land,C,{0}
+"Strip Mine",Land,C,{0}
+"Ancient Tomb",Land,C,{0}
+"Cavern of Souls",Land,C,{0}
+"Mystic Sanctuary",Land,U,{0}
+"Field of the Dead",Land,C,{0}
+"Command Tower",Land,C,{0}
+"Reflecting Pool",Land,C,{0}
+"Exotic Orchard",Land,C,{0}
+"Fabled Passage",Land,C,{0}
+"Reliquary Tower",Land,C,{0}
+"Bojuka Bog",Land,C,{0}
+"Ghost Quarter",Land,C,{0}
+"Strip Mine",Land,C,{0}
+"Molten Rain",Sorcery,R,{1}{R}
+"Searing Blaze",Instant,R,{R}{R}
+"Skullclamp",Artifact,C,{1}
+"Arcane Signet",Artifact,C,{2}
+"Armageddon",Sorcery,W,{4}{W}{W}
+"Cyclonic Rift",Instant,U,{1}{U}
+"Demonic Tutor",Sorcery,B,{1}{B}
+"Vampiric Tutor",Instant,B,{B}{B}
+"Enlightened Tutor",Instant,W,{W}
+"Mystical Tutor",Instant,U,{U}
+"Green Sun's Zenith",Sorcery,G,{X}{G}{G}
+"Finale of Devastation",Sorcery,G,{X}{G}{G}
+"Ad Nauseam",Instant,C,{3}{P}
+"Dark Petition",Sorcery,B,{X}{B}{B}
+"Gitaxian Probe",Sorcery,U/B,{U/B}{U/B}
+"Thought Scour",Instant,U,{U}
+"Serum Visions",Sorcery,U,{U}
+"Opt",Instant,U,{U}
+"Brainstorm",Instant,U,{U}
+"Ponder",Sorcery,U,{U}
+"Preordain",Sorcery,U,{U}{U}
+"Faithless Looting",Sorcery,R,{1}{R}
+"Inspiring Vantage",Land,R/W,{0}
+"Sacred Foundry",Land,R/W,{0}
+"Clifftop Retreat",Land,R/W,{0}
+"Godless Shrine",Land,W/B,{0}
+"Isolated Chapel",Land,W/B,{0}
+"Temple Garden",Land,G/W,{0}
+"Sunpetal Grove",Land,G/W,{0}
+"Overgrown Tomb",Land,B/G,{0}
+"Woodland Cemetery",Land,B/G,{0}
+"Breeding Pool",Land,G/U,{0}
+"Hallowed Fountain",Land,U/W,{0}
+"Watery Grave",Land,U/B,{0}
+"Steam Vents",Land,U/R,{0}
+"Blood Crypt",Land,B/R,{0}
+"Stomping Ground",Land,R/G,{0}
+"Sacrifice",Instant,,{1}{B}
+"Cultivate",Sorcery,G,{2}{G}
+"Kodama's Reach",Sorcery,G,{2}{G}
+"Farseek",Sorcery,G,{1}{G}
+"Rampant Growth",Sorcery,G,{1}{G}
+"Explosive Vegetation",Sorcery,G,{3}{G}
+"Skyshroud Claim",Sorcery,G,{2}{G}{G}
+"Nature's Lore",Sorcery,G,{2}{G}
+"Three Visits",Sorcery,G,{2}{G}
+"Harrow",Sorcery,G,{1}{G}
+"Sylvan Scrying",Sorcery,G,{1}{G}
+"Crop Rotation",Sorcery,G,{1}{G}
+"Fabled Passage",Land,C,{0}
+"Evolving Wilds",Land,C,{0}
+"Terramorphic Expanse",Land,C,{0}
+"Command Beacon",Land,C,{0}
+"Field of Ruin",Land,C,{0}
